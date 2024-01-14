@@ -84,7 +84,7 @@ const Register = () => {
                     date in accordance with the <b>PRIVACY POLICY</b>
                 </Agreement>
                 <Button onClick={handleClick} disabled={isFetching}>CREATE</Button>
-                {error && <Error>Something Went Wrong...</Error>}
+                {error ?? <Error>Something Went Wrong...</Error>}
 
             </Form>
         </Wrapper>

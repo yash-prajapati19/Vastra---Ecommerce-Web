@@ -26,19 +26,19 @@ export const sliderItems = [
 export const categories = [
     {
         id: 1,
-        img:"https://images.pexels.com/photos/3724367/pexels-photo-3724367.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        img:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F47%2F43%2F47434cd015d15a91e5dce2a315a78830980bee8e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
         title: "MENS",
         cat: "men",
     },
     {
         id: 2,
-        img:"https://images.pexels.com/photos/7716930/pexels-photo-7716930.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        img:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1a%2F59%2F1a59cfaaf1a0aff09877ba9683b94c5ab1159c35.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
         title: "WOMENS",
         cat: "women",
     },
     {
         id: 3,
-        img:"https://images.pexels.com/photos/1620760/pexels-photo-1620760.jpeg?auto=compress&cs=tinysrgb&w=600",
+        img:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F76%2Fd7%2F76d7c36e2a7548a528f23fbc05267d53138c389e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
         title: "KIDS",
         cat: "kids",
     },

@@ -262,7 +262,7 @@ const Cart = () => {
                         billingAddress
                         shippingAddress
                         description={`Your total is ${total}`}
-                        amount={cart.total*100}
+                        amount={total}
                         currency="inr"
                         token={onToken}
                         stripeKey={KEY}

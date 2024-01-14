@@ -86,7 +86,7 @@ const Login = () => {
                 <Input placeholder="username" onChange={(e) => setUsername(e.target.value)}/>
                 <Input placeholder="password" type="password" onChange={(e) => setPassword(e.target.value)}/>
                 <Button onClick={handleClick} disabled={isFetching}>LOGIN</Button>
-                {error && <Error>Something Went Wrong...</Error>}
+                {error ?? <Error>Something Went Wrong...</Error>}
                 <New>DO NOT YOU REMEMBER THE PASSWORD?</New>
                 <Link to="/register">
                 <New>CREATE A NEW ACCOUNT</New>
